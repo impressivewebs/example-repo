@@ -1,4 +1,0 @@
-Some example text
-Another example line. Ignore this.
-This is added in the new branch.
-Fourth line. This is not good.
