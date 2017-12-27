@@ -1,0 +1,17 @@
+commit bec341b3eec7202f1a1fedbfac8f4a837e7abb7a
+Author: impressivewebs <impressive.webs@gmail.com>
+Date:   Wed Dec 27 06:16:29 2017 -0500
+
+    added gitignore
+
+commit a737e3f464befcdb3025c1fa890a7caf1c95c0b4
+Author: impressivewebs <impressive.webs@gmail.com>
+Date:   Wed Dec 27 05:54:01 2017 -0500
+
+    Added two files.
+
+commit f2d793869c65334098e85c55b0a14b3a473fdc13
+Author: impressivewebs <impressive.webs@gmail.com>
+Date:   Wed Dec 27 05:49:16 2017 -0500
+
+    added example file
