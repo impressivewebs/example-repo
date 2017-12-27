@@ -1,28 +1,24 @@
-# This is a large heading
+# Example heading
 
-## This is a smaller heading
+## Whatever you want goes here
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+This is some text.
 
-- This is
-- an unordered
-- list
+### This is a sub head
 
-1. This is
-2. an ordered
-3. list
+Look at these three things:
 
-Here is `some code` in the middle of a sentence.
+- *This one* is cool
+- *This one* is too
+- *And this one* wow
 
-```
-This is 
-a block
-of code
-```
+### Whatever you know
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Well would you look at this.
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. A list
+2. Of nothing
+3. Really, nothing
+
+### Contact us
+Don't even call me. Never.
